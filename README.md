@@ -4,5 +4,7 @@ Steps to run:
 2. Copy the "rand" dependency present in the cargo.toml file.
 3. Run command: cargo run size-of-matrix
    Ex: cargo run 10
+
+
 References:
 1. https://boydjohnson.dev/blog/concurrency-matrix-multiplication/
